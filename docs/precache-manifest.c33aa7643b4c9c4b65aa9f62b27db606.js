@@ -8,10 +8,6 @@ self.__precacheManifest = [
     "url": "/SyllabusOnTimetable/js/chunk-vendors.b76b2474.js"
   },
   {
-    "revision": "7032e7b273057f0bda3b",
-    "url": "/SyllabusOnTimetable/js/chunk-41082bff.16a9c796.js"
-  },
-  {
     "revision": "9327b5dd7a9deb74a0b9",
     "url": "/SyllabusOnTimetable/js/chunk-2d23860a.c5539fb2.js"
   },
@@ -20,19 +16,23 @@ self.__precacheManifest = [
     "url": "/SyllabusOnTimetable/js/chunk-2d0c1b88.0b76abe0.js"
   },
   {
-    "revision": "f05b1400a12551e39af5",
-    "url": "/SyllabusOnTimetable/js/app.724ee222.js"
+    "revision": "e269c9b723c3f1358ce3",
+    "url": "/SyllabusOnTimetable/js/chunk-17f771dd.adcf5d72.js"
   },
   {
-    "revision": "4c3b3a8ab112e0454bfed5fcbd3548b7",
+    "revision": "6a4b9ac800acc25ea614",
+    "url": "/SyllabusOnTimetable/js/app.ffdbc7ce.js"
+  },
+  {
+    "revision": "ccf0c8b28b6d70fe3228fda7f08a8ebd",
     "url": "/SyllabusOnTimetable/index.html"
   },
   {
-    "revision": "7032e7b273057f0bda3b",
-    "url": "/SyllabusOnTimetable/css/chunk-41082bff.4bd79cc0.css"
+    "revision": "e269c9b723c3f1358ce3",
+    "url": "/SyllabusOnTimetable/css/chunk-17f771dd.23b44f70.css"
   },
   {
-    "revision": "f05b1400a12551e39af5",
+    "revision": "6a4b9ac800acc25ea614",
     "url": "/SyllabusOnTimetable/css/app.8a89fa0c.css"
   }
 ];
