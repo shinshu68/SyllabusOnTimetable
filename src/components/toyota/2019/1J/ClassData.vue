@@ -266,7 +266,7 @@ export default {
   methods: {
     changeMode(m) {
       this.mode = m
-      console.log(this.mode)
+      // console.log(this.mode)
     },
     isMode(m) {
       if (this.mode == m) return true
