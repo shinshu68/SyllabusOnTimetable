@@ -26,7 +26,7 @@
       <grid-layout
             :layout.sync="formatData[day]"
             :col-num="5"
-            :row-height="150"
+            :row-height="175"
             :is-draggable="false"
             :is-resizable="false"
             :is-mirrored="false"
@@ -78,7 +78,7 @@ export default {
       ]
     }
   },
-  mounted() {
+  created() {
     let tmpArray = []
     let x = 0
     let y = 0
