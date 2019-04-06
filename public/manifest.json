@@ -1,6 +1,6 @@
 {
-  "name": "syllbustable",
-  "short_name": "syllbustable",
+  "name": "SyllabusOnTimetable",
+  "short_name": "SoT",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",
