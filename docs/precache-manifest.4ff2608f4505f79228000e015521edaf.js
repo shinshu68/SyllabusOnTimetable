@@ -20,11 +20,11 @@ self.__precacheManifest = [
     "url": "/SyllabusOnTimetable/js/chunk-2d0c1b88.0b76abe0.js"
   },
   {
-    "revision": "2539c578e61860f815cd",
-    "url": "/SyllabusOnTimetable/js/app.3e557d4f.js"
+    "revision": "f05b1400a12551e39af5",
+    "url": "/SyllabusOnTimetable/js/app.724ee222.js"
   },
   {
-    "revision": "9f03a0c60b0e3b81b69724f64d05e98b",
+    "revision": "4c3b3a8ab112e0454bfed5fcbd3548b7",
     "url": "/SyllabusOnTimetable/index.html"
   },
   {
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/SyllabusOnTimetable/css/chunk-41082bff.4bd79cc0.css"
   },
   {
-    "revision": "2539c578e61860f815cd",
+    "revision": "f05b1400a12551e39af5",
     "url": "/SyllabusOnTimetable/css/app.8a89fa0c.css"
   }
 ];
