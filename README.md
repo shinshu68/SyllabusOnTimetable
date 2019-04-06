@@ -1,4 +1,4 @@
-# syllbustable
+# Syllabus on Timetable
 
 ## Project setup
 ```
