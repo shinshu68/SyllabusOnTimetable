@@ -1,4 +1,4 @@
 module.exports = {
-    publicPath: '/SyllabusOnTimeTable/',
+    publicPath: '/SyllabusOnTimetable/',
     outputDir: 'docs'
 }
