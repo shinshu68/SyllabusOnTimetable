@@ -41,11 +41,11 @@
                   :i="item.i"
                   :key="item.id"
                   :style="{background: item.detail[3]}"
-                  >
+                  @click.native="jump(item.url)">
           <span>
-            <p @click="jump(item.url)">{{item["detail"][0]}}</p>
-            <p @click="jump(item.url)">{{item["detail"][1]}}</p>
-            <p @click="jump(item.url)">{{item["detail"][2]}}</p>
+            <p>{{item["detail"][0]}}</p>
+            <p>{{item["detail"][1]}}</p>
+            <p>{{item["detail"][2]}}</p>
           </span>
         </grid-item>
       </grid-layout>
@@ -123,9 +123,10 @@ export default {
   },
   methods: {
     jump(url) {
-      let baseurl = 'https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus'
-      location.href = baseurl + `?school_id=${this.schoolID}&department_id=${this.departmentID}&` + url
-      // console.log(baseurl + url)
+      if (url) {
+        let baseurl = 'https://syllabus.kosen-k.go.jp/Pages/PublicSyllabus'
+        location.href = baseurl + `?school_id=${this.schoolID}&department_id=${this.departmentID}&` + url
+      }
     }
   }
 }
