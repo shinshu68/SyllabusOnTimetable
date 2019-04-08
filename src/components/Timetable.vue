@@ -155,7 +155,7 @@ div.vue-grid-item {
   width: calc(100vw / 5);
 }
 
-.vue-grid-item.no-touch {
+div.vue-grid-item.no-touch {
   touch-action: auto;
 }
 </style>
