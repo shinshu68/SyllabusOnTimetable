@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/SyllabusOnTimetable/precache-manifest.283ad3386dd0f18d97dc8180c65a64d7.js"
+  "/SyllabusOnTimetable/precache-manifest.198c010dee8166ae8613426f85880982.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "syllbustable"});

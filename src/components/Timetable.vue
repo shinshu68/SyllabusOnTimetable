@@ -153,7 +153,7 @@ div.vue-grid-item {
   border: 1px solid #000000;
   display: inline-block;
   width: calc(100vw / 5);
-  touch-action: auto; 
+  touch-action: auto;
 }
 </style>
 
