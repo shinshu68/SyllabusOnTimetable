@@ -260,7 +260,7 @@ export default {
           { "9 10": null }
         ]
       },
-      mode: 'first'
+      mode: 'second'
     }
   },
   methods: {
