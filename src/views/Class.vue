@@ -6,10 +6,12 @@
 
 <script>
 import toyota20191J from '@/components/toyota/2019/1J/ClassData.vue'
+import toyota20202J from '@/components/toyota/2020/2J/ClassData.vue'
 export default {
   name: "class",
   components: {
-    toyota20191J
+    toyota20191J,
+    toyota20202J
   },
   data() {
     return {
