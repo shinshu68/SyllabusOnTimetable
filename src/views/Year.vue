@@ -1,6 +1,8 @@
 <template>
   <div class="year">
     <router-link :to="link('1J')">1J</router-link>
+    <br>
+    <router-link :to="link('2J')">2J</router-link>
   </div>
 </template>
 
