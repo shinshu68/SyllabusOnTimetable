@@ -1,6 +1,8 @@
 <template>
   <div class="school">
     <router-link :to="link(2019)">2019</router-link>
+    <br>
+    <router-link :to="link(2020)">2020</router-link>
   </div>
 </template>
 
